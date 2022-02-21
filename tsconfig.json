@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",                                
+    "lib": ["dom", "dom.iterable", "esnext"], 
+    "moduleResolution": "node",                       
+    "allowJs": true,
+    "noEmit": true,                                   
+    "esModuleInterop": true,                             
+    "forceConsistentCasingInFileNames": true,            
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "strict": true,                                      /* Enable all strict type-checking options. */
+    "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
+  },
+  "include": ["src"]
+}
